@@ -11,6 +11,3 @@ export class JwtStrategy extends JwtStrategyBase {
     super(userService, secretOrKey);
   }
 }
-   super(userService, secretOrKey);
-  }
-}
